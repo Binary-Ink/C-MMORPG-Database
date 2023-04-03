@@ -1,0 +1,60 @@
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\MMORPG Database.exe.config
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\MMORPG Database.exe
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\MMORPG Database.pdb
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.character_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.class_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.customer_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.faction_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.Form1.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.item_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.Properties.Resources.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.race_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.region_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.server_form.resources
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.exe
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.pdb
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.subscription_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\MMORPG Database.exe.config
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.exe
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.pdb
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.csprojResolveAssemblyReference.cache
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.character_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.class_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.customer_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.faction_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.Form1.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.item_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.Properties.Resources.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.race_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.region_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.server_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.subscription_form.resources
+\\lits.blackpool.ac.uk\Data\Student Homes\Active_Q3\698\30153698\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\mscorlib.dll
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\System.Net.Http.dll
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\System.Net.Http.xml
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\normidna.nlp
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\normnfc.nlp
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\normnfd.nlp
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\normnfkc.nlp
+H:\Documents\Visual Studio 2015\Projects\MMORPG Converted remote worker\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\normnfkd.nlp
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\MMORPG Database.exe.config
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.exe
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.pdb
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\MMORPG Database.exe
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\bin\Debug\MMORPG Database.pdb
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.csprojResolveAssemblyReference.cache
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.character_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.class_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.customer_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.faction_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.Form1.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.item_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.Properties.Resources.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.race_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.region_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.server_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG_Database.subscription_form.resources
+C:\Users\Sophie\Desktop\MMORPG Database - V14 - working query\MMORPG Database\obj\Debug\MMORPG Database.csproj.GenerateResource.Cache
